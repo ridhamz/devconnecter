@@ -1,0 +1,7 @@
+{
+    "mongoURI":"mongodb+srv://ridhamezrigui:MZjavascript123@cluster0-nhifn.mongodb.net/social-media?retryWrites=true&w=majority",
+    "jwtToken":"mySecretToken",
+    "githubClientId": "6ed99c74121815817623",
+    "githubSecretId": "9d4c5d2f215eb80597056aadf0b3039e8cb6360b"
+
+}
